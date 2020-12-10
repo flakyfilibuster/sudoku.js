@@ -1,0 +1,19 @@
+{
+  "name": "react-native-sudoku",
+  "description": "sudoku fork",
+  "version": "0.0.1",
+  "react-native": "sudoku.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flakyfilibuster/sudoku.js.git"
+  },
+  "keywords": [],
+  "author": "flaky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flakyfilibuster/sudoku.js/issues"
+  }
+}
